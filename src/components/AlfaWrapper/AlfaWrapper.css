@@ -1,0 +1,23 @@
+.AlfaWrapper {
+  width: 960px;
+  margin: auto;
+  position: relative;
+  padding-top: 1px;
+}
+
+.AlfaLogo {
+  background-color: #ef3124;
+  position: absolute;
+  top: 0;
+  padding: 20px 15px;
+  border-radius: 0 0 5px 5px;
+}
+
+.AlfaMenu {
+  margin-left: 100px;
+  margin-top: 10px;
+}
+
+.AlfaContent {
+  padding-top: 30px;
+}
